@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519633628271.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "420383309",
+    "id" : "293777F7",
+    "lastKnownWriteTime" : 1519633620,
+    "last_content_update" : 1519633620,
+    "path" : "~/Dropbox/R Project/situs-web/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
